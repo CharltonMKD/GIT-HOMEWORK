@@ -1,4 +1,26 @@
 * {
   margin: 0;
   padding: 0;
+  padding: 10px;
+}
+body {
+  background-color: burlywood;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+  color: beige;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  color: aliceblue;
+  text-decoration: none;
 }
